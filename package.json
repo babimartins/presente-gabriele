@@ -1,23 +1,67 @@
 {
   "name": "presente-gabriele",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "dependencies": {
+    "@material-ui/core": "^4.10.0",
+    "@material-ui/icons": "^4.9.1",
+    "material-ui": "^0.20.2",
+    "react-swipeable-views": "^0.13.9",
+    "react-scripts": "3.4.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/material-ui": "^0.21.7",
+    "@types/react": "16.8.13",
+    "@types/react-dom": "16.8.4",
+    "@types/react-swipeable-views": "^0.13.0",
+    "typescript": "^3.8.3"
+  },
   "eslintConfig": {
-    "extends": "react-app"
+    "parser": "@typescript-eslint/parser",
+    "env": {
+      "browser": true,
+      "es6": true
+    },
+    "plugins": [
+      "react-hooks"
+    ],
+    "extends": [
+      "react-app",
+      "plugin:@typescript-eslint/recommended",
+      "prettier/@typescript-eslint",
+      "plugin:prettier/recommended"
+    ],
+    "parserOptions": {
+      "ecmaFeatures": {
+        "jsx": true
+      },
+      "ecmaVersion": 2018,
+      "sourceType": "module"
+    },
+    "settings": {
+      "import/resolver": {
+        "typescript": {}
+      }
+    }
+  },
+  "prettier": {
+    "eslintIntegration": true,
+    "printWidth": 120,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "jsxBracketSameLine": true,
+    "arrowParens": "avoid"
   },
   "browserslist": {
     "production": [
