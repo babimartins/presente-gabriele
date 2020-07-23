@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/presente-gabriele/static/css/main.7f9e3f08.chunk.css",
-    "main.js": "/presente-gabriele/static/js/main.faeab24a.chunk.js",
-    "main.js.map": "/presente-gabriele/static/js/main.faeab24a.chunk.js.map",
+    "main.js": "/presente-gabriele/static/js/main.b9bb97b9.chunk.js",
+    "main.js.map": "/presente-gabriele/static/js/main.b9bb97b9.chunk.js.map",
     "runtime-main.js": "/presente-gabriele/static/js/runtime-main.09d339a0.js",
     "runtime-main.js.map": "/presente-gabriele/static/js/runtime-main.09d339a0.js.map",
     "static/js/2.b9c7ea08.chunk.js": "/presente-gabriele/static/js/2.b9c7ea08.chunk.js",
     "static/js/2.b9c7ea08.chunk.js.map": "/presente-gabriele/static/js/2.b9c7ea08.chunk.js.map",
     "index.html": "/presente-gabriele/index.html",
-    "precache-manifest.eeb3d892f19ec820bbe0e9fa95a8a9c8.js": "/presente-gabriele/precache-manifest.eeb3d892f19ec820bbe0e9fa95a8a9c8.js",
+    "precache-manifest.3ee23dd9ba35952ec8b540a0aa74de0d.js": "/presente-gabriele/precache-manifest.3ee23dd9ba35952ec8b540a0aa74de0d.js",
     "service-worker.js": "/presente-gabriele/service-worker.js",
     "static/css/main.7f9e3f08.chunk.css.map": "/presente-gabriele/static/css/main.7f9e3f08.chunk.css.map",
     "static/js/2.b9c7ea08.chunk.js.LICENSE.txt": "/presente-gabriele/static/js/2.b9c7ea08.chunk.js.LICENSE.txt",
@@ -81,6 +81,6 @@
     "static/js/runtime-main.09d339a0.js",
     "static/js/2.b9c7ea08.chunk.js",
     "static/css/main.7f9e3f08.chunk.css",
-    "static/js/main.faeab24a.chunk.js"
+    "static/js/main.b9bb97b9.chunk.js"
   ]
 }
