@@ -9,10 +9,10 @@ function App() {
 
   return (
     <Grid container className="App">
-      <Grid item style={{ maxHeight: '25vh', width: '100%', marginBottom: '2vh' }}>
+      <Grid item style={{ maxHeight: '25vh', width: '100%', marginBottom: '3vh' }}>
         <img id="header-image" src={headerImage} alt="Header" style={{ height: '22.5vh' }} />
       </Grid>
-      <Grid item style={{ height: '65vh', width: '100%' }}>
+      <Grid item style={{ height: '67vh', width: '100%' }}>
         <Tabs
           tabsContent={[<div />, <NotesTab notesContent={getNotesContent()} />, <PhotosTab />]}
           tabsLabels={['A Gabi é música', 'Recadinhos', 'Fotinhas']}

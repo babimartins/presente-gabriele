@@ -40,7 +40,7 @@ const useStyles = () =>
     return {
       container: {
         padding: '10px 0 5px 10px',
-        maxHeight: '54vh',
+        maxHeight: '60vh',
         overflowY: 'auto',
         overflowX: 'hidden',
       },
