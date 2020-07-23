@@ -39,10 +39,10 @@ export default () => {
       signature: 'Eve',
     },
     {
-      content: `Parabeeeeens Gabi!!! Te desejo muitas coisas boas, que vc a cada se sinta mais feliz! Espero 
-      ainda poder comemorar muitos aniversários seu junto com vc!! Você é uma mulher maravilhosa, merece curtir 
-      muito esse seu dia! Aproveite bastante! Te amo! Saudades!`,
-      signature: 'Luiza',
+      content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book.`,
+      signature: 'Signature',
     },
     {
       content: `Feeeeeliz vidaaaa Gabiiiiii! Hoje são exatamente 19 anos da sua existência. Caramba... eu tô tão 
@@ -66,46 +66,15 @@ export default () => {
       signature: 'Nathália (3)',
     },
     {
-      content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book.`,
-      signature: 'Signature',
+      content: `Parabeeeeens Gabi!!! Te desejo muitas coisas boas, que vc a cada se sinta mais feliz! Espero 
+      ainda poder comemorar muitos aniversários seu junto com vc!! Você é uma mulher maravilhosa, merece curtir 
+      muito esse seu dia! Aproveite bastante! Te amo! Saudades!`,
+      signature: 'Luiza',
     },
     {
-      content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book.`,
-      signature: 'Signature',
-    },
-    {
-      content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book.`,
-      signature: 'Signature',
-    },
-    {
-      content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book.`,
-      signature: 'Signature',
-    },
-    {
-      content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book.`,
-      signature: 'Signature',
-    },
-    {
-      content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book.`,
-      signature: 'Signature',
-    },
-    {
-      content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book.`,
-      signature: 'Signature',
+      content: `Feliz aniversário Gabi! Desejo tudo de bom para você e seu dia seja ótimo! Parabéns por ser uma boa amiga 
+      e por sempre ser forte o suficiente para lutar por aquilo que acredita. Tudo de bom para você sempre. ♥️`,
+      signature: 'Laura',
     },
     {
       content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
