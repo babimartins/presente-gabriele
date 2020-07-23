@@ -18,34 +18,44 @@ export default () => {
       signature: 'Ana Beatriz',
     },
     {
-      content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book.`,
-      signature: 'Signature',
+      content: `Amiga, você é uma das pessoas que mais gosto no mundo. Você é cheia de amor e brilho e só quem 
+      te conhece sabe o tamanho do seu coração! Eu quero te desejar todas as coisas mais bonitas que existem, 
+      muito amor e muita luz (pra poder conseguir enxergar as coisas bonitas lá de trás). Eu te amo e estarei 
+      sempre aqui mesmo de longinho. Que você tenha um dia especial, feliz aniversário! Beijos.`,
+      signature: 'Eve',
     },
     {
-      content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book.`,
-      signature: 'Signature',
+      content: `Feeeeeliz vidaaaa Gabiiiiii! Hoje são exatamente 19 anos da sua existência. Caramba... eu tô tão 
+      feliz de poder comemorar mais um aniversário com você amiga. Quem poderia imaginar que nossas vidas iriam 
+      se cruzar em um extinto cursinho preparatório e que o impacto desse encontro seria tão forte hein kkkkk. 
+      Que sorte a minha! Eu quero aproveitar esse dia de hoje para te agradecer...`,
+      signature: 'Nathália (1)',
     },
     {
-      content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book.`,
-      signature: 'Signature',
+      content: `... por ter compartilhado um pouco de você comigo. Pelas risadas, pelos choros, pelos rolê culturais 
+      (e por aqueles não tão culturais assim kkkkk), pelos desabafos, pelas broncas, pelas birras, pelo seu belíssimo 
+      gosto musical... pela sua amizade tão genuína. Desejo que nesse seu novo ciclo a felicidade esteja sempre por 
+      perto, que haja muito amor na sua vida, muito sucesso...`,
+      signature: 'Nathália (2)',
     },
     {
-      content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book.`,
-      signature: 'Signature',
+      content: `...  Que você não tenha medo de tentar e experimentar as novas fases que estão por vir. Espero que você 
+      consiga perceber, com carinho, a pessoa incrível que você é! Independente do que aconteça, espero que você não 
+      perca isso de vista. Ah e só pra te lembrar: "tu te tornas eternamente responsável por aquilo que tu cativas". 
+      Sendo assim, que venham mais e mais vidas para compartilharmos!`,
+      signature: 'Nathália (3)',
     },
     {
-      content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-        industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book.`,
-      signature: 'Signature',
+      content: `Ei Gabizinha! Passando só pra te desejar um feliz aniversário e tudo de bom que esse mundo tem 
+      pra oferecer. Você é uma pessoa cheia de luz e tenho muita sorte de poder ter te conhecido. Espero que 
+      mesmo com a distância você se sinta abraçada e seu dia seja top. Abração!`,
+      signature: 'Lana',
+    },
+    {
+      content: `Parabeeeeens Gabi!!! Te desejo muitas coisas boas, que vc a cada se sinta mais feliz! Espero 
+      ainda poder comemorar muitos aniversários seu junto com vc!! Você é uma mulher maravilhosa, merece curtir 
+      muito esse seu dia! Aproveite bastante! Te amo! Saudades!`,
+      signature: 'Luiza',
     },
     {
       content: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the

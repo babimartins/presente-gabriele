@@ -4,9 +4,8 @@ export interface PhotosContentInterface {
 
 export default () => {
   const photosContent: PhotosContentInterface[] = [];
-  for (let i = 1; i <= 56; i++) {
+  for (let i = 1; i <= 63; i++) {
     photosContent.push({ path: `${i}.jpg` });
   }
-  debugger;
   return photosContent;
 };
