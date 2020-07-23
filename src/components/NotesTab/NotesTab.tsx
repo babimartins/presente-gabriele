@@ -1,13 +1,14 @@
 import React from 'react';
 import { Note } from '../../components';
-import { Grid } from '@material-ui/core';
 import { NoteContentInterface } from '../../data';
+import { Grid } from '@material-ui/core';
+import { makeStyles } from '@material-ui/core/styles';
 
 export default (props: NotesTabProps) => {
   const { notesContent } = props;
+  const classes = useStyles()();
 
   const renderNotes = (notesContent: any[]) => {
-    debugger;
     return notesContent.map(noteContent => {
       return (
         <Grid item xs={4}>
@@ -19,17 +20,12 @@ export default (props: NotesTabProps) => {
 
   return (
     <Grid
+      id="notes-tab-container"
       container
       spacing={2}
       direction="row"
-      justify="center"
       alignItems="center"
-      style={{
-        padding: '5px',
-        maxHeight: '54vh',
-        overflowY: 'auto',
-        overflowX: 'hidden',
-      }}>
+      classes={{ root: classes.container }}>
       {renderNotes(notesContent)}
     </Grid>
   );
@@ -38,3 +34,15 @@ export default (props: NotesTabProps) => {
 interface NotesTabProps {
   notesContent: NoteContentInterface[];
 }
+
+const useStyles = () =>
+  makeStyles(() => {
+    return {
+      container: {
+        padding: '10px 0 5px 10px',
+        maxHeight: '54vh',
+        overflowY: 'auto',
+        overflowX: 'hidden',
+      },
+    };
+  });

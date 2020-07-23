@@ -1,4 +1,5 @@
 import getNotesContent, { NoteContentInterface } from './NotesContent';
+import getPhotosContent, { PhotosContentInterface } from './PhotosContent';
 
-export { getNotesContent };
-export type { NoteContentInterface };
+export { getNotesContent, getPhotosContent };
+export type { NoteContentInterface, PhotosContentInterface };

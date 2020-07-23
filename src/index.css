@@ -3,13 +3,14 @@
 }
 
 html {
-  padding: 3%;
+  padding: 1.5% 3% 0 3%;
 }
 
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #c6dfff;
 }
 
 ::-webkit-scrollbar {
@@ -23,10 +24,34 @@ body {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #ccc;
+  background: #5fa5ff;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #aaa;
+  background: #004aad;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    width: 94vw;
+  }
+
+  #header-image {
+    height: 18vh !important;
+    margin-left: -85vw;
+  }
+
+  #tabs-container {
+    height: 75vh !important;
+  }
+
+  #notes-tab-container {
+    max-height: 65vh !important;
+  }
+
+  .MuiGrid-grid-xs-4 {
+    max-width: 100% !important;
+    flex-basis: 95% !important;
+  }
 }
