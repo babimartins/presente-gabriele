@@ -1,19 +1,22 @@
 import React from 'react';
 import './App.css';
+import { Grid } from '@material-ui/core';
+import { Tabs, NotesTab } from './components';
+import { getNotesContent } from './data';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Grid container className="App">
+      <Grid item style={{ height: '25vh', width: '100%', marginBottom: '2vh' }}>
+        <div>placeholder</div>
+      </Grid>
+      <Grid item style={{ height: '60vh', width: '100%' }}>
+        <Tabs
+          tabsContent={[<div />, <NotesTab notesContent={getNotesContent()} />, <div />]}
+          tabsLabels={['Texto', 'Recados', 'Fotos']}
+        />
+      </Grid>
+    </Grid>
   );
 }
 
