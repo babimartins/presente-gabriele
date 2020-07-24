@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/presente-gabriele/static/css/main.7f9e3f08.chunk.css",
-    "main.js": "/presente-gabriele/static/js/main.b9bb97b9.chunk.js",
-    "main.js.map": "/presente-gabriele/static/js/main.b9bb97b9.chunk.js.map",
+    "main.js": "/presente-gabriele/static/js/main.36ffc63f.chunk.js",
+    "main.js.map": "/presente-gabriele/static/js/main.36ffc63f.chunk.js.map",
     "runtime-main.js": "/presente-gabriele/static/js/runtime-main.09d339a0.js",
     "runtime-main.js.map": "/presente-gabriele/static/js/runtime-main.09d339a0.js.map",
-    "static/js/2.b9c7ea08.chunk.js": "/presente-gabriele/static/js/2.b9c7ea08.chunk.js",
-    "static/js/2.b9c7ea08.chunk.js.map": "/presente-gabriele/static/js/2.b9c7ea08.chunk.js.map",
+    "static/js/2.ffdcc45c.chunk.js": "/presente-gabriele/static/js/2.ffdcc45c.chunk.js",
+    "static/js/2.ffdcc45c.chunk.js.map": "/presente-gabriele/static/js/2.ffdcc45c.chunk.js.map",
     "index.html": "/presente-gabriele/index.html",
-    "precache-manifest.3ee23dd9ba35952ec8b540a0aa74de0d.js": "/presente-gabriele/precache-manifest.3ee23dd9ba35952ec8b540a0aa74de0d.js",
+    "precache-manifest.60325a48d9cc105f3e75a8c9164822a8.js": "/presente-gabriele/precache-manifest.60325a48d9cc105f3e75a8c9164822a8.js",
     "service-worker.js": "/presente-gabriele/service-worker.js",
     "static/css/main.7f9e3f08.chunk.css.map": "/presente-gabriele/static/css/main.7f9e3f08.chunk.css.map",
-    "static/js/2.b9c7ea08.chunk.js.LICENSE.txt": "/presente-gabriele/static/js/2.b9c7ea08.chunk.js.LICENSE.txt",
+    "static/js/2.ffdcc45c.chunk.js.LICENSE.txt": "/presente-gabriele/static/js/2.ffdcc45c.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/presente-gabriele/static/media/1.f1faf9e7.jpg",
     "static/media/10.jpg": "/presente-gabriele/static/media/10.66459c2b.jpg",
     "static/media/11.jpg": "/presente-gabriele/static/media/11.c2ee56fc.jpg",
     "static/media/12.jpg": "/presente-gabriele/static/media/12.d6cd24c9.jpg",
     "static/media/13.jpg": "/presente-gabriele/static/media/13.f267367f.jpg",
-    "static/media/14.jpg": "/presente-gabriele/static/media/14.eeb3e145.jpg",
+    "static/media/14.jpg": "/presente-gabriele/static/media/14.30adb59a.jpg",
     "static/media/15.jpg": "/presente-gabriele/static/media/15.991b71f3.jpg",
     "static/media/16.jpg": "/presente-gabriele/static/media/16.c15c24cf.jpg",
     "static/media/17.jpg": "/presente-gabriele/static/media/17.f6cc7b61.jpg",
@@ -43,7 +43,7 @@
     "static/media/35.jpg": "/presente-gabriele/static/media/35.2a7938ef.jpg",
     "static/media/36.jpg": "/presente-gabriele/static/media/36.ba5be1f7.jpg",
     "static/media/37.jpg": "/presente-gabriele/static/media/37.d90fd711.jpg",
-    "static/media/38.jpg": "/presente-gabriele/static/media/38.f8e0e396.jpg",
+    "static/media/38.jpg": "/presente-gabriele/static/media/38.e8764bec.jpg",
     "static/media/39.jpg": "/presente-gabriele/static/media/39.15e7eaa9.jpg",
     "static/media/4.jpg": "/presente-gabriele/static/media/4.44fb7731.jpg",
     "static/media/40.jpg": "/presente-gabriele/static/media/40.63f3edec.jpg",
@@ -79,8 +79,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.09d339a0.js",
-    "static/js/2.b9c7ea08.chunk.js",
+    "static/js/2.ffdcc45c.chunk.js",
     "static/css/main.7f9e3f08.chunk.css",
-    "static/js/main.b9bb97b9.chunk.js"
+    "static/js/main.36ffc63f.chunk.js"
   ]
 }
