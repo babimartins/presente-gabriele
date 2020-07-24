@@ -116,14 +116,14 @@ export default () => {
       nesses últimos anos, em apresentações de trabalho isso é muito perceptível também, você sempre foi uma pessoa extraordinária e foi 
       um imenso prazer fazer parte dessa partezinha da sua vida que foi o CEFET. Eu desejo e sei que você vai voar muito nessa vida Gabi, 
       sua sinceridade...`,
-      signature: 'Rafaela (1)',
+      signature: 'Rafaela (2)',
     },
     {
       content: `... e talento ~que a bonita as vezes não reconhece~ ainda vão te levar muito longe mesmo, você com toda 
       certeza vai realizar um monte de sonho. Te desejo toda felicidade e tranquilidadezinha na alma, pra você conseguir passar por todos 
       os desafios que aparecerem e ter um pouco mais de sossego pra viver a vida da forma mais leve que conseguir. No mais, conta comigo 
       pro que precisar tamo junto vlw flw bjos miga. Feliz aniversáriooooooo.`,
-      signature: 'Rafaela (1)',
+      signature: 'Rafaela (3)',
     },
   ];
   return notesContent;
