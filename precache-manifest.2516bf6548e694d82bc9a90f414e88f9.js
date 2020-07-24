@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "317add3810ca6487536f1a759975f96d",
+    "revision": "4c8203afd7435e578e9e5488a0301857",
     "url": "/presente-gabriele/index.html"
   },
   {
-    "revision": "36f89386d38675af8984",
+    "revision": "e7ece9ba3e0b00f4d542",
     "url": "/presente-gabriele/static/css/main.7f9e3f08.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/presente-gabriele/static/js/2.ffdcc45c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "36f89386d38675af8984",
-    "url": "/presente-gabriele/static/js/main.36ffc63f.chunk.js"
+    "revision": "e7ece9ba3e0b00f4d542",
+    "url": "/presente-gabriele/static/js/main.0f04f591.chunk.js"
   },
   {
     "revision": "855456b541343ee2a9b6",
