@@ -104,6 +104,27 @@ export default () => {
       Feliz aniversário! Te amo muito ♥️`,
       signature: 'Jamilly (3)',
     },
+    {
+      content: `Oiin Gabii. Seu aniversário chegou e infelizmente a gente não vai se ver pessoalmente maaas saiba que mesmo longe 
+      eu estou desejando uma infinidade de coisas boazinhas pra você sz. Você foi uma pessoa mto especial pra mim nesses anos de 
+      CEFET, mesmo de longe eu sempre tive um imenso carinho e simpatia com você. Lembrar que eu não vou mais te encontrar no ponto do 9205 pra gente reclamar...`,
+      signature: 'Rafaela (1)',
+    },
+    {
+      content: `... de tudo quanto é BO de hospedagem e de que 
+      nossos ônibus demoravam meia hora pra passar me deixa um pouco triste. Eu já te disse o quanto eu senti que vc cresceu e mudou 
+      nesses últimos anos, em apresentações de trabalho isso é muito perceptível também, você sempre foi uma pessoa extraordinária e foi 
+      um imenso prazer fazer parte dessa partezinha da sua vida que foi o CEFET. Eu desejo e sei que você vai voar muito nessa vida Gabi, 
+      sua sinceridade...`,
+      signature: 'Rafaela (1)',
+    },
+    {
+      content: `... e talento ~que a bonita as vezes não reconhece~ ainda vão te levar muito longe mesmo, você com toda 
+      certeza vai realizar um monte de sonho. Te desejo toda felicidade e tranquilidadezinha na alma, pra você conseguir passar por todos 
+      os desafios que aparecerem e ter um pouco mais de sossego pra viver a vida da forma mais leve que conseguir. No mais, conta comigo 
+      pro que precisar tamo junto vlw flw bjos miga. Feliz aniversáriooooooo.`,
+      signature: 'Rafaela (1)',
+    },
   ];
   return notesContent;
 };
