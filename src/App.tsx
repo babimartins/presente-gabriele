@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import { Tabs, NotesTab, PhotosTab } from './components';
-import { getNotesContent, getPhotosContent } from './data';
+import { Tabs, NotesTab, PhotosTab, MusicsTab } from './components';
+import { getNotesContent, getPhotosContent, getMusicsContent } from './data';
 import { Grid } from '@material-ui/core';
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
       <Grid item style={{ height: '67vh', width: '100%' }}>
         <Tabs
           tabsContent={[
-            <div />,
+            <MusicsTab musics={getMusicsContent()} />,
             <NotesTab notesContent={getNotesContent()} />,
             <PhotosTab photos={getPhotosContent()} />,
           ]}

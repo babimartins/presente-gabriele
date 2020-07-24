@@ -5,7 +5,7 @@ import { makeStyles } from '@material-ui/core/styles';
 
 export default (props: TabsProps) => {
   const { tabsContent, tabsLabels } = props;
-  const [value, setValue] = React.useState<number>(2);
+  const [value, setValue] = React.useState<number>(0);
   const classes = useStyles()();
 
   const handleChange = (event: React.ChangeEvent<{}>, newValue: number) => {
