@@ -1,12 +1,12 @@
 import React from 'react';
-import { getPhotosContent } from '../../data';
+import { PhotosContentInterface } from '../../data';
 import { Grid } from '@material-ui/core';
 import Carousel from 'react-material-ui-carousel';
 
-export default () => {
-  var photosContent: any[] = [];
-  const photos = getPhotosContent();
+export default (props: PhotosTabProps) => {
+  const { photos } = props;
 
+  var photosContent: any[] = [];
   for (let i = 0; i < photos.length; i += 3) {
     photosContent.push({ a: photos[i], b: photos[i + 1], c: photos[i + 2] });
   }
@@ -44,3 +44,7 @@ export default () => {
     </Carousel>
   );
 };
+
+interface PhotosTabProps {
+  photos: PhotosContentInterface[];
+}
